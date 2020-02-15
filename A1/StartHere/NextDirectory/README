@@ -1,0 +1,6 @@
+Where do we go from here?   All we see is the README file???
+
+Remember that the ls command doesn't show hidden files by default.
+You must use 'ls -a' to see hidden files.
+
+Try that command in this directory and you should be able to figure out where to go next!

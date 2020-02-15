@@ -1,0 +1,26 @@
+You made it!
+You reached the final directory!
+To complete this assignment you must run the script named "finalScript.sh" in this directory
+and then submit the file it creates to CMS.
+
+In order to run this script, you should be able to simply type in the following command at the prompt:
+
+$ ./finalScript.sh
+
+When the script runs, it will ask you for your NetID.   Please enter your NetID with no additional
+spaces or characters.   When you hit RETURN, the script will echo your NetID back to you and ask
+you if it is correct.   Make sure it is correct!    When correct, just type a 'y' when prompted
+to verify that your NetID is correct.   At that point, a special file named:
+
+CS2043-A1-SubmitThisFile.txt
+
+will be created in your home directory.    You can use a "cd" command to return to your home
+directory and then an "ls" command to verify that it is there.
+
+It will be easiest for you to run Firefox in your virtualized environment to access CMS so that you can
+submit the file directly from your virtualized environment.   If you don't, or if you are using
+ugclinux you will need to transfer the file somewhere where you can access CMS to upload us.   If this is
+the case for you, please come see us in office hours for more assistance.
+
+
+
